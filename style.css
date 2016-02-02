@@ -1,0 +1,40 @@
+ html
+{
+margin:1%;
+background-color: darkgrey;	
+ 
+}
+body
+{
+	flaot:center;
+	width:90%;
+	height:600px;
+   background-color: darkgrey;
+	margin:auto;
+font-family: Tahoma, Geneva, sans-serif;
+}
+
+
+
+h1{
+	
+	text-align:center;
+}
+
+
+.recherche{
+	text-align:center;
+	font-size:22px;
+	background-color: pink;
+	height: 80%;
+	margin:5%;
+	border:1px gray solid;
+}
+
+#results{
+	margin-top:15px;
+}
+
+#search{
+	margin-top:20px;
+}
